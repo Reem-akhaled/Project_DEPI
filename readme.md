@@ -1,4 +1,4 @@
-## 🇮🇳 Indian Banks Customer Reviews Analysis
+## Indian Banks Customer Reviews Analysis
 
 An advanced Business Intelligence (BI) project analyzing 3,000 customer reviews for major Indian banks to benchmark performance, identify service quality gaps, and track temporal trends. The final output is an interactive Power BI dashboard designed for executive decision-making.
 
@@ -48,6 +48,12 @@ To view the interactive dashboard:
 2.  **Software:** Ensure you have **Power BI Desktop** installed.
 3.  **Run:** Open the `.pbix` file to interact with the full data model and visualizations.
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](Dashboard_Overview.PNG)
+### 🖼️ Dashboard Preview
+# 1- Overview
+![Dashboard Screenshot](Screenshots/1-Overview.PNG)
+# 2- Bank Analysis
+![Dashboard Screenshot](Screenshots/2-BankAnalysis.PNG)
+# 3- Reviews Insights
+![Dashboard Screenshot](Screenshots/3-Reviews_Insights.PNG)
+# 4- Time-Based Trends
+![Dashboard Screenshot](Screenshots/4-Time_Based_Trends.PNG)
